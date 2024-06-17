@@ -1,7 +1,7 @@
 {
   "name": "character-map",
   "description": "Online accessible font-character map / glyph viewer",
-  "version": "2.0.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/bluejamesbond/CharacterMap",
   "keywords": [],
   "author": {
@@ -25,7 +25,7 @@
   "main": "app.js",
   "license": "MIT",
   "dependencies": {
-    "scribe-js": "^2.0.3"
+    "express": "4.13.4"
   },
   "readmeFilename": "README.md"
 }
